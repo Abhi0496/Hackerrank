@@ -1,4 +1,4 @@
-a = "ABc"
+a = raw_input()
 b = a.swapcase().split()
 b.reverse()
 fs = " ".join(b)
